@@ -78,6 +78,8 @@ Bundle 'git://git.wincent.com/command-t.git'
 " Git repos on your local machine (i.e. when working on your own plugin)
 Bundle 'file:///Users/gmarik/path/to/plugin'
 Bundle 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
+" Syntax for dockerfile
+Bundle 'ekalinin/Dockerfile.vim'
 " ...
 
 filetype plugin indent on     " required!
