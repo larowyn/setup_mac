@@ -9,6 +9,9 @@ set gdefault
 set hlsearch
 set cc=80
 
+" Map Shift-Down and Shift-Up to travel to the next/previous paragraph (blank line)
+map <S-Up> {
+map <S-Down> }
 
 "
 " NOTE Highlithing
